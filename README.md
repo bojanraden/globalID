@@ -1,6 +1,6 @@
 # GlobaliD Assignment -  Bojan Rađenović
 
-## Requirements:
+## Instructions:
 
 ``` bash
 # install dependencies
