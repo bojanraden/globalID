@@ -1,0 +1,14 @@
+{
+    "wrong": {
+      "username": "someuser",
+      "password": "somepassword"
+    },
+    "correct": {
+      "username": "w71612452882",
+      "password": "e7tBxbc6ajQ="
+    },
+    "url": {
+      "base": "https://connect.globalid.construction/?client_id=795144d3-ef91-4bb9-a84f-e8daf6ebeb91&response_type=code&scope=public%20offline_access%20add_messaging_device&redirect_uri=https://globalid.construction/app/login&code_challenge=_ERnad6unZnUSOqszVHdCnBMg4ivLUGlcSOhm0nn2Os&code_challenge_method=S256&device_public_key=-----BEGIN%20PUBLIC%20KEY-----%0D%0AMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAr5SWGoYP4N3MyEtBAzP3%0D%0AFxprma4jAc3eHSDp776cQ6tC5pBVHdMsaHfFPjearL2TgOuCmVz8s9Kr5CJ57Ysv%0D%0AdyDKVx8%2Bj6zz6cxSTMfII5DPcV8XD1tLnRLc3hnPwOlQCFw28bWlZUCTjJD5TYy7%0D%0AQP2YFLtl0gR%2FKYLHXuq%2BqSSAlnmPAlgKVCuBB40JNYskJy%2FHgBmNcZEUwT%2FPAOmD%0D%0Aw4PN%2F%2FRz5eGk6gg%2Bvlw0s5gVeoxD0i6mVh80SskjZw37rz0Pe5NaQZjL0pTZ826O%0D%0A7JYfLdeBdp2JGe1CR5p7Ayz6RzEu73UUePwRn8f7XxRNj1od49ZBJR%2B53DyauPgb%0D%0AB4tsONEadlzttUED6rjNYasaCXWL1yctB3ggAughEs64VezG5yxkF1LKZPzvcpE2%0D%0A2Bdk7cSGd7d1vjKf1SKKVja4GSvepVcLugFq0lVPtJ%2BRmp2Z80UauqDaCRzlz50o%0D%0APgjxRPTcOvQtT%2FN8uT6CN7V%2BAjVOzt6STrbD2Htrgvj7z%2FT2Q3hO9%2FJVQWB7tYVS%0D%0ARCGYSMLTEoADkledFy9k3f9XCk0GkyyDLV7onCQy2QqQ9XOpfASyaDKvkniXsfpq%0D%0AoP3%2By9pWry9UFlavc9Mw8aNj1GbXDVsuOBTWj%2FJL56P7PE01oERyE2Hw9ezkFzny%0D%0AJmxKSlIU%2BPAtqI5Kv%2B3SlpECAwEAAQ%3D%3D%0D%0A-----END%20PUBLIC%20KEY-----%0D%0A&login=true"
+      }
+  }
+  
